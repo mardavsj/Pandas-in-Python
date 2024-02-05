@@ -4,7 +4,7 @@
 
 </div>
 
-![pandas_logo](https://www.tomasbeuzen.com/python-programming-for-data-science/_images/pandas.png)
+![pandas_logo](https://camo.githubusercontent.com/60ef9d8e7273373857bd6fb871678ef4fc5367433589be0da330d6972a305bda/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461735f77686974652e737667)
 
 Pandas is a powerful and versatile library that simplifies tasks of data manipulation in Python. It is built on the top of the NumPy library which means that a lot of structures of NumPy are used or replicated in Pandas. It is well-suited for working with tabular data, such as spreadsheets or SQL tables.
 
