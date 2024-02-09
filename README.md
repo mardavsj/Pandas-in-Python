@@ -45,6 +45,19 @@ Install NumPy with conda :
 * Pandas can clean messy data sets, and make them readable and relevant.
 
 * Relevant data is very important in data science.
+
+
+
+## Why Pandas over Excel ?
+
+* Programmatic Data Manipulation :- Pandas allows for automation and complex data transformations through Python code, enabling efficient handling of large datasets and repetitive tasks.
+
+* Efficiency with Large Datasets :- Pandas is optimized for working with large volumes of data, leveraging high-performance libraries like NumPy, ensuring faster processing compared to Excel, which may struggle with large datasets.
+
+* Integration with Python Ecosystem :- Pandas seamlessly integrates with other Python libraries for data visualization, machine learning, and statistical analysis, enabling users to leverage the rich capabilities of Python for advanced analytics tasks, which may not be readily available within Excel. 
+
+
+
 ## Video (NumPy Playlist) & Blog Tutorial : 
 
 [![Video_tutorial](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdEE2jFpL71LsVH5QjDP5s4)
