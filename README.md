@@ -20,13 +20,13 @@ Pandas is a powerful and open-source library Python library for data manipulatio
 * Pip or Conda (depending on user)
 ## Installation :
 
-Install NumPy with pip :
+Install Pandas with pip :
 
 ```bash
   pip install pandas
 ```
 
-Install NumPy with conda :
+Install Pandas with conda :
 
 ```bash
   conda create -c conda-forge -n name_of_my_env python pandas
