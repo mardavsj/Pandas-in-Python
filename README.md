@@ -20,13 +20,13 @@ Pandas is a powerful and open-source library Python library for data manipulatio
 * Pip or Conda (depending on user)
 ## Installation :
 
-Install NumPy with pip :
+Install Pandas with pip :
 
 ```bash
   pip install pandas
 ```
 
-Install NumPy with conda :
+Install Pandas with conda :
 
 ```bash
   conda create -c conda-forge -n name_of_my_env python pandas
@@ -59,7 +59,7 @@ Install NumPy with conda :
 
 
 
-## Video (NumPy Playlist) & Blog Tutorial : 
+## Video (Pandas Playlist) & Blog Tutorial : 
 
 [![Video_tutorial](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdEE2jFpL71LsVH5QjDP5s4)
 [![Blog_tutorial](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=black&color=white)](https://medium.com/analytics-vidhya/introduction-to-pandas-90b75a5c2278)
